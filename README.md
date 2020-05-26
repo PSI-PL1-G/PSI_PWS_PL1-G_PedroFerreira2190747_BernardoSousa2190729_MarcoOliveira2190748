@@ -10,6 +10,6 @@ O desenvolvimento deste jogo será feito em conjunto com a disciplina de Metodol
 > Grupo G
 
 >> Membros:
- 1. Pedro Ferreira
- 2. Bernardo Sousa
- 3. Marco Oliveira
+   1. Pedro Ferreira
+   2. Bernardo Sousa
+   3. Marco Oliveira
