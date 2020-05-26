@@ -7,8 +7,8 @@ Esta versão de Shut the Box é jogada por um jogador (apenas) em conjunto com o
  
 O desenvolvimento deste jogo será feito em conjunto com a disciplina de Metodologias de Desenvolvimento de Software, cujo objetivo é gerir o desenvolvimento do projeto e dos recursos necessários para tal como o Jira e o GitHub.
 
-> **Grupo PL1-G**
-Membros:
+> **Grupo PL1-G**, Membros:
+
 1. Pedro Ferreira
 2. Bernardo Sousa
 3. Marco Oliveira
