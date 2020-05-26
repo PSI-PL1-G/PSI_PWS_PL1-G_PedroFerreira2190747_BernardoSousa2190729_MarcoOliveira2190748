@@ -15,9 +15,6 @@ O desenvolvimento deste jogo será feito em conjunto com a disciplina de Metodol
 
 >**Instituto Politécnico de Leiria**
 
-Here's our logo (hover to see the title text):
+![alt text][logo]
 
-![alt text][site][logo]
-
-[site]: https://www.ipleiria.pt/
 [logo]: https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png "Logo do IPLeiria"
