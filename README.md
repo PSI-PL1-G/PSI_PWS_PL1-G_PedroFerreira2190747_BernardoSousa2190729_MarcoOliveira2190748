@@ -11,5 +11,5 @@ O desenvolvimento deste jogo será feito em conjunto com a disciplina de Metodol
 
 >> Membros:
 1. Pedro Ferreira
-   2. Bernardo Sousa
-   3. Marco Oliveira
+2. Bernardo Sousa
+3. Marco Oliveira
