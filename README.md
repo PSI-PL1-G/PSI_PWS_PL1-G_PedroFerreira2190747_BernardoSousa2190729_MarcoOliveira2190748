@@ -1,20 +1,19 @@
-# Projeto de PWS
-> Descrição do Projeto
+# PWS
 
-No âmbito da cadeira de Programação Web-Servidor pretende-se que seja desenvolvida a implementação de um jogo de dados da Web, de nome “Shut the Box”, que que  tem como objetivo fechar (bloquear) todos os números do tabuleiro, utilizando os dois dados de 6 faces numeradas. Para tal, o jogador deve lançar os dois dados e ao valor obtido deve bloquear qualquer número de peças do tabuleiro que no seu conjunto perfaçam a soma do resultado do lançamento dos dois dados.Esta versão de Shut the Box é jogada por um jogador (apenas) em conjunto com o computador (que representa outro jogador).
- 
-O desenvolvimento deste jogo será feito em conjunto com a disciplina de Metodologias de Desenvolvimento de Software, cujo objetivo é gerir o desenvolvimento do projeto e dos recursos necessários para tal como o Jira e o GitHub.
+**Grupo:PL1-F**\
+**Nome do Estudante: Pedro Ferreira**\
+`2190747`\
+**Nome do Estudante: Marco Oliveira**\
+`2190748`\
 
-> **Grupo PL1-G**, Membros:
 
-1. Pedro Ferreira nº2190747
-2. Bernardo Sousa nº2190729
-3. Marco Oliveira nº2190748
 
-> **Curso:** Curso Técnico Superior Profissional de Programação de Sistemas de Informação (CTeSP - PSI)
+jira: https://2190729.atlassian.net/jira/software/projects/PPPG22/boards/3
+(Não ha forma de de partilharmos o jira porque o criador do jira desistiu e saiu do grupo. 
+Mesmo com permissões de admin nao temos adicionar mais ninguem.)
 
->**Instituto Politécnico de Leiria**
+GitHub: https://github.com/PSI-PL1-G/PSI_PWS_PL1-G_PedroFerreira2190747_BernardoSousa2190729_MarcoOliveira2190748
+> Programação Web Servidor @ 2020\
 
-![alt text][logo]
+![](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
 
-[logo]: https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png "Logo do IPLeiria"
