@@ -1,0 +1,58 @@
+<?php use ArmoredCore\WebObjects\Layout;
+use ArmoredCore\WebObjects\URL;
+use ArmoredCore\WebObjects\Data;
+
+$msg = Data::get('msg');
+
+Layout::includeLayout('header') ?>
+
+    <!-- Area de registo -->
+    <section id="registo">
+        <div class="container py-5">
+            <div class="text-center pb-5">
+                <h1 class="login-title text-dark">Registo</h1>
+                <p class="p-1 m-0 font-ubuntu text-black-50">Registe-se e divirta-se com o jogo!</p>
+                <span class="font-ubuntu text-black-50">Eu já tenho uma conta <a href="<?= Url::toRoute('user/login')?>">Login</a></span>
+            </div>
+
+            <div class="d-flex justify-content-center">
+                <form action="<?= Url::toRoute('user/register') ?>" method="post" id="reg-form"> <!-- enctype="multipart/form-data" -->
+                    <div class="form-row">
+                        <div class="col">
+                            <input type="text" value="<?=$msg->primeiroNome ?>" name="primeiroNome" id="primeiroNome" class="form-control" placeholder="Primeiro Nome">
+                        </div>
+                        <div class="col">
+                            <input type="text" value="<?=$msg->ultimoNome ?>" name="ultimoNome" id="ultimoNome" class="form-control" placeholder="Ultimo Nome">
+                        </div>
+                    </div>
+
+                    <div class="form-row my-4">
+                        <div class="col">
+                            <input type="email" value="<?=$msg->email_user ?>" required name="email" id="email" class="form-control" placeholder="Email*">
+                        </div>
+                    </div>
+
+                    <div class="form-row my-4">
+                        <div class="col">
+                            <input type="password" required name="password" id="password" class="form-control" placeholder="Password*">
+                        </div>
+                    </div>
+
+                    <div class="form-row my-4">
+                        <div class="col">
+                            <input type="password" required name="confirmarPass" id="confirmarPass" class="form-control" placeholder="Confirme a Password*">
+                            <small id="confirmarErro" class="text-danger"></small>
+                        </div>
+                    </div>
+
+                    <div class="submit-btn text-center my-5">
+                        <button type="submit" class="btn btn-warning rounded-pill text-dark px-5">Continuar</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </section>
+    <!-- #Area de registo -->
+
+<?php Layout::includeLayout('footer') ?>

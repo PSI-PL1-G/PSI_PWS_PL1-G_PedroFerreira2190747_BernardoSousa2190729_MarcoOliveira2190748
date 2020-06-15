@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/legacy/Haanga" />
+      <path value="$PROJECT_DIR$/vendor/php-activerecord/examples" />
+      <path value="$PROJECT_DIR$/vendor/PetrKnap/Php" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/Dave1010/Hug" />
+      <path value="$PROJECT_DIR$/vendor/Symfony/Component" />
+      <path value="$PROJECT_DIR$/vendor/php-activerecord/test" />
+      <path value="$PROJECT_DIR$/vendor/Tracy/assets" />
+      <path value="$PROJECT_DIR$/vendor/Tracy/Bridges" />
+      <path value="$PROJECT_DIR$/vendor/Stolz/Assets" />
+      <path value="$PROJECT_DIR$/vendor/Filisko/PDOplus" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Interop" />
+      <path value="$PROJECT_DIR$/vendor/Psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Log" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Http" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Cache" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Container" />
+      <path value="$PROJECT_DIR$/vendor/Psr/Hug" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/php-activerecord/lib" />
+      <path value="$PROJECT_DIR$/vendor/Nette/Utils" />
+      <path value="$PROJECT_DIR$/vendor/Nette/PhpGenerator" />
+      <path value="$PROJECT_DIR$/vendor/Nette/Iterators" />
+      <path value="$PROJECT_DIR$/vendor/Netpromotion/Profiler" />
+      <path value="$PROJECT_DIR$/vendor/Kdyby/Extension" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Protocol" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Consistency" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Event" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Exception" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Websocket" />
+      <path value="$PROJECT_DIR$/vendor/Hoa/Socket" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/uri" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/renderer" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Exceptions" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/edge" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/http" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/Cache" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Cache" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/structure" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Entities" />
+      <path value="$PROJECT_DIR$/vendor/Pd/Diagnostics" />
+      <path value="$PROJECT_DIR$/vendor/Aura/Di" />
+      <path value="$PROJECT_DIR$/vendor/Windwalker/loader" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Drivers" />
+      <path value="$PROJECT_DIR$/vendor/Aura/Includer" />
+      <path value="$PROJECT_DIR$/vendor/Aura/Filter" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Core" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Bundle" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Proxy" />
+      <path value="$PROJECT_DIR$/vendor/phpFastCache/Util" />
+      <path value="$PROJECT_DIR$/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/vendor/Symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/Symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1awAQ2ylgA2IOG1XaKPZDSiHaoa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistoryKey" value="Debugger::barDump&#9;null&#9;null&#10;code sty&#9;ACTION&#9;ChangeCodeStyleScheme&#10;Session::start&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="php.override.implement.member.chooser.php.doc" value="DEFAULT" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp64\www\weblogicmvc\webapp\model" />
+      <recent name="E:\wamp64\www\weblogicmvc\webapp\controller" />
+      <recent name="E:\wamp64\www\weblogicmvc\webapp\view\user" />
+      <recent name="E:\wamp64\www\weblogicmvc\webapp\view\home" />
+      <recent name="E:\wamp64\www\weblogicmvc\vendor\Pd\Diagnostics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wamp64\wamp64\www\weblogicmvc\framework\ArmoredCore\WebObjects" />
+      <recent name="E:\wamp64\wamp64\www\weblogicmvc\public\html" />
+      <recent name="E:\wamp64\www\weblogicmvc\wlstudio\startup" />
+      <recent name="E:\wamp64\www\weblogicmvc\wlstudio\startup\lib" />
+      <recent name="E:\wamp64\www\weblogicmvc\middleware\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.weblogicmvc">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration name="weblogicmvc" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="startupconfig.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/webapp/startup/startupconfig.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.startupconfig.php" />
+      <item itemvalue="PHPUnit.weblogicmvc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.startupconfig.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="" />
+      <created>1462184024711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462184024711</updated>
+      <workItem from="1491344815131" duration="229869000" />
+      <workItem from="1492187771034" duration="11222000" />
+      <workItem from="1492254238550" duration="47648000" />
+      <workItem from="1492427300750" duration="52033000" />
+      <workItem from="1492528554961" duration="747000" />
+      <workItem from="1492529340633" duration="373000" />
+      <workItem from="1492530197275" duration="2484000" />
+      <workItem from="1492542296752" duration="17485000" />
+      <workItem from="1492626948768" duration="11495000" />
+      <workItem from="1587636287499" duration="890000" />
+      <workItem from="1587637336850" duration="2945000" />
+      <workItem from="1588669010282" duration="4124000" />
+      <workItem from="1588681126536" duration="20000" />
+      <workItem from="1588690918905" duration="260000" />
+      <workItem from="1588698246097" duration="201000" />
+      <workItem from="1588784732288" duration="10582000" />
+      <workItem from="1588798194126" duration="2669000" />
+      <workItem from="1588804280530" duration="1173000" />
+      <workItem from="1589271721640" duration="4285000" />
+      <workItem from="1589286201131" duration="39000" />
+      <workItem from="1589286385851" duration="43000" />
+      <workItem from="1589306565220" duration="2359000" />
+      <workItem from="1590482541073" duration="997000" />
+      <workItem from="1592003951634" duration="117000" />
+      <workItem from="1592150555231" duration="20335000" />
+      <workItem from="1592177388456" duration="602000" />
+      <workItem from="1592178090101" duration="9842000" />
+      <workItem from="1592189118917" duration="1406000" />
+      <workItem from="1592190688277" duration="4848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592153161292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/306.-768.1366.728@0.0.1920.1040" timestamp="1592153161292" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1592178131604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1592178131604" />
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/306.-768.1366.728@0.0.1920.1040" timestamp="1592177476659" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1592184891861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1592184891861" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/306.-768.1366.728@0.0.1920.1040" timestamp="1592158510061" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1589276758710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/306.-768.1366.728@0.0.1920.1040" timestamp="1589276758710" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1589306632184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/306.-768.1366.728@0.0.1920.1040" timestamp="1589306632184" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
